@@ -2,7 +2,7 @@
 
 ### Modelo de cálculo de requerimientos nutricionales, balance de nitrógeno, diagnóstico foliar SPAD y corrección de acidez del suelo.
 
-![Agricultura y fertilización](3385f82e348a093e6540fdbcaaede0930799ccba142ba6ca_560.jpg)
+![Agricultura y fertilización](3385f82e348a093e6540fdbcaaede0930799ccba142ba6ca_560.jpg = 400x300)
 
 ---
 
@@ -40,7 +40,7 @@ El modelo calcula los requerimientos de nitrógeno, fósforo y potasio según el
 - Fósforo (P₂O₅).
 - Potasio (K₂O).
 
-![Fertilización de cultivos]("C:/Users/eduar/Downloads/OIP (2).webp")
+![Fertilización de cultivos](OIP (2).webp)
 
 ### 2. Balance de nitrógeno
 
