@@ -2,7 +2,7 @@
 
 ### Modelo de cálculo de requerimientos nutricionales, balance de nitrógeno, diagnóstico foliar SPAD y corrección de acidez del suelo.
 
-![Agricultura y fertilización](3385f82e348a093e6540fdbcaaede0930799ccba142ba6ca_560.jpg = 400*300)
+![Agricultura y fertilización](3385f82e348a093e6540fdbcaaede0930799ccba142ba6ca_560.jpg = 400x300)
 
 ---
 
