@@ -2,7 +2,11 @@
 
 ### Modelo de cálculo de requerimientos nutricionales, balance de nitrógeno, diagnóstico foliar SPAD y corrección de acidez del suelo.
 
-![Agricultura y fertilización](3385f82e348a093e6540fdbcaaede0930799ccba142ba6ca_560.jpg = 400x300)
+![Agricultura y fertilización](3385f82e348a093e6540fdbcaaede0930799ccba142ba6ca_560.jpg)
+
+<p align="center">
+  <img src="OIP (4).webp" alt="Descrição da foto" width="400">
+</p>
 
 ---
 
@@ -55,7 +59,7 @@ Se consideran cuatro fuentes:
 
 El resultado permite estimar el suministro total de nitrógeno y determinar la dosis complementaria de fertilizante.
 
-![Análisis de suelo y materia orgánica]("C:/Users/eduar/Downloads/OIP (3).webp")
+![Análisis de suelo y materia orgánica](OIP (3).webp)
 
 ### 3. Ajuste de nitrógeno mediante clorofilómetro SPAD
 
