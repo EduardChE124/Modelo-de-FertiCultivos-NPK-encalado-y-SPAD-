@@ -40,7 +40,9 @@ El modelo calcula los requerimientos de nitrógeno, fósforo y potasio según el
 - Fósforo (P₂O₅).
 - Potasio (K₂O).
 
-![Fertilización de cultivos](OIP (2).webp)
+<p align="center">
+  <img src="OIP (2).webp" alt="Foto #Toma de muestra" width="400">
+</p>
 
 ### 2. Balance de nitrógeno
 
