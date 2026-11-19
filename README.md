@@ -2,7 +2,10 @@
 
 ### Modelo de cálculo de requerimientos nutricionales, balance de nitrógeno, diagnóstico foliar SPAD y corrección de acidez del suelo.
 
-![Agricultura y fertilización](3385f82e348a093e6540fdbcaaede0930799ccba142ba6ca_560.jpg)
+
+<p align="center">
+  <img src="3385f82e348a093e6540fdbcaaede0930799ccba142ba6ca_560.jpg" alt="..." width="500">
+</p>
 
 ---
 
@@ -85,8 +88,9 @@ Cuando el pH se encuentra por debajo del valor crítico, estima una dosis de cal
 
 También identifica condiciones de alcalinidad cuando el pH supera 7,8, considerando el posible riesgo de fijación de fósforo.
 
-![Encalado agrícola](imagenes/encalado.jpg)
-
+<p align="center">
+  <img src="calagem.webp" alt="Descrição da foto" width="400">
+</p>
 ---
 
 ## Cultivos incorporados
