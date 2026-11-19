@@ -4,10 +4,6 @@
 
 ![Agricultura y fertilización](3385f82e348a093e6540fdbcaaede0930799ccba142ba6ca_560.jpg)
 
-<p align="center">
-  <img src="OIP (4).webp" alt="Descrição da foto" width="400">
-</p>
-
 ---
 
 ## Descripción del proyecto
@@ -59,7 +55,9 @@ Se consideran cuatro fuentes:
 
 El resultado permite estimar el suministro total de nitrógeno y determinar la dosis complementaria de fertilizante.
 
-![Análisis de suelo y materia orgánica](OIP (3).webp)
+<p align="center">
+  <img src="OIP (3).webp" alt="Foto #Toma de muestra" width="400">
+</p>
 
 ### 3. Ajuste de nitrógeno mediante clorofilómetro SPAD
 
@@ -73,7 +71,9 @@ El modelo calcula el porcentaje de suficiencia SPAD y aplica un factor de correc
 
 De esta manera, se incorpora una evaluación del estado nutricional de la planta para complementar la recomendación basada en el análisis de suelo.
 
-![Medición de clorofila con clorofilómetro SPAD](imagenes/medicion_spad.jpg)
+<p align="center">
+  <img src="OIP (4).webp" alt="Descrição da foto" width="400">
+</p>
 
 ### 4. Diagnóstico de pH y requerimientos de encalado
 
