@@ -30,3 +30,4 @@ Obtener un modelo que facilite la planificación de la fertilización, permita a
 ## Alcance
 
 El proyecto contempla la integración de criterios de fertilidad de suelo, nutrición vegetal y monitoreo del estado nutricional de los cultivos para generar recomendaciones de manejo agronómico.
+
